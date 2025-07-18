@@ -1,1 +1,1 @@
-![Website Preview](images/admin.png)
+![Website Preview](admin.png)
