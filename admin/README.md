@@ -17,8 +17,6 @@ What admin can do?
 
 8- Add new users (call center and waiters) and can deactivate their accounts.
 
-We didn't mentioned all the admin files due the using of the website by a real cafe.
-
 ![Website Preview](admin.png)
 ![Website Preview](menu.png)
 ![Website Preview](table.png)
