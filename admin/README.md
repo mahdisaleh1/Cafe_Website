@@ -20,3 +20,5 @@ What admin can do?
 We didn't mentioned all the admin files due the using of the website by a real cafe.
 
 ![Website Preview](admin.png)
+![Website Preview](menu.png)
+![Website Preview](table.png)
