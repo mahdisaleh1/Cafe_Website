@@ -1,4 +1,4 @@
 # Cafe_Website
-![Website Preview](homepage.png)
-![Website Preview](menu.png)
-![Website Preview](reservation.png)
+![Website Preview](images/homepage.png)
+![Website Preview](images/menu.png)
+![Website Preview](images/reservation.png)
